@@ -1,0 +1,773 @@
+HTML.txt
+<!DOCTYPE html>
+<html>
+    <head>
+       <tile>HTML CALENDAR</tile> 
+       <h5>MORAN JUSTIN ALLEN</h5>
+              <h6>IT102</h6>
+    </head>
+<body style="background-color: rgb(231, 24, 17); width: auto; height: auto;">
+    <center>
+    <table>    
+         <h1>CALENDAR 2023</h1>
+         <table border="10" style="background-color: bisque;">
+            <thead>
+                <tr>
+                  <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">JANUARY 2023</th>
+                <tr>
+                    <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+                    <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+                    <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+                    <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+                    <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+                    <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+                    <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+                </tr>
+            </thead>    
+        <tbody>
+        <tr>
+            <td style="color: rgb(22, 19, 4);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+            <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+            <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+            <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+            <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+            <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+            <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+        </tr>  
+        <tr>
+            <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">8</td>
+            <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+            <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+            <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">11</td>
+            <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+            <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+            <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+        </tr>
+        <tr>
+            <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+            <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+            <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+            <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+            <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+            <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+            <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+        </tr>
+        <tr>
+            <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">22</td>
+            <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+            <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+            <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+            <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+            <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+            <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+        </tr>
+        <tr>
+            <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">29</td>
+            <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+            <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">31</td>
+            <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(7, 6, 6);"></td>
+            <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(7, 6, 6);"></td>
+            <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(7, 6, 6);"></td>
+            <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(19, 17, 17);"></td>
+        </tr>
+    </table>
+    <table border="10" style="background-color: bisque;">
+        <thead>
+            <tr>
+              <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">FEBRUARY 2023</th>
+            <tr>
+                <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+                <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+                <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+                <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+                <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+                <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+                <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+            </tr>
+        </thead>    
+    <tbody>
+    <tr>
+        <td style="color: rgb(22, 19, 4);font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+        <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+        <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+        <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+        <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+        <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+        <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    </tr>  
+    <tr>
+        <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">5</td>
+        <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+        <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+        <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">8</td>
+        <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+        <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+        <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    </tr>
+    <tr>
+        <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+        <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+        <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+        <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+        <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+        <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+        <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    </tr>
+    <tr>
+        <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">19</td>
+        <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+        <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+        <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+        <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+        <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+        <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    </tr>
+    <tr>
+        <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+        <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+        <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+        <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(7, 6, 6);"></td>
+        <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(7, 6, 6);"></td>
+        <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(7, 6, 6);"></td>
+        <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(19, 17, 17);"></td>
+    </tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">MARCH 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(22, 19, 4);font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+</tr>  
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">8</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">19</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: rgb(12, 12, 11);font-style: inherit; font-size: xx-large; background-color: gold;">29</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">31</td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: rgb(15, 15, 14);"></td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">APRIL 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(5, 5, 5);"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(10, 10, 9);"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large;background-color: rgb(10, 10, 9);"></td>
+    <TD style="color: black;font-style: inherit;font-size: xx-large;background-color: gold;">1</TD>
+</tr>  
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">5</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">16</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(22, 22, 20);font-style: inherit; font-size: xx-large; background-color: gold;">26</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(26, 25, 23);font-style: inherit; font-size: xx-large; background-color: gold;">28</td>
+    <td style="color: rgb(19, 18, 17);font-style: inherit; font-size: xx-large; background-color: gold;">29</td>
+</tr>
+<tr>
+    <td style="color: black;font-style: inherit;font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+    <td style="color: gold inherit;font-size: xx-large;background-color: rgb(12, 12, 10);"></td>
+</tr>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">MAY 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(22, 19, 4);font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+</tr>  
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">10</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">21</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">29</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: rgb(12, 12, 11);font-style: inherit; font-size: xx-large; background-color: gold">31</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large; background-color: rgb(34, 33, 30);"></td>
+    <td style="color: rgb(5, 5, 5);font-style: inherit; font-size: xx-large; background-color: rgb(19, 17, 17);">X</td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">JUNE 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: rgb(5, 5, 5);"></td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: rgb(19, 18, 18);"></td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">7</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">18</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">28</td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: gold;">29</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: gold">30</td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: rgb(19, 17, 17);">X</td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">JULY 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(22, 19, 4);font-style: inherit; font-size: xx-large;background-color: rgb(8, 8, 8);"></td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: black;font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color:black;"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+</tr>  
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">5</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">16</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: gold;">26</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: gold;">28</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: gold">29</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">31</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: black"></td>
+    <td style="color: black;font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: black;"></td>
+    <td style="color: gold;font-style: inherit; font-size: xx-large; background-color: black"></td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">AUGUST 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: black;"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: black;"></td>
+    <td style="color: black;font-style: inherit; font-size: xx-large;background-color: gold">1</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large;background-color:gold;">2</td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">9</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">20</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">29</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">30</td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: gold;">31</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: black"></td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: black"></td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">SEPTEMBER 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: rgb(5, 5, 5);"></td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: black;"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">6</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">17</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">27</td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: gold">29</td>
+    <td style="color: black;font-style: inherit; font-size: xx-large; background-color: gold">30</td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">OCTOBER 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold">1</td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: gold">2</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">11</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">22</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">29</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold">31</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: black"></td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: black"></td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: black;"></td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">NOVEMBER 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: rgb(5, 5, 5);"></td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">6</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">8</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">17</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">19</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">27</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">29</td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: gold;">30</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: black;"></td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: black"></td>
+</tr>
+</table>
+<table border="10" style="background-color: bisque;">
+    <thead>
+        <tr>
+          <th colspan="7" style="background-color: black;font-style: initial; font-size: xx-large;color: aliceblue;text-decoration: solid; -o-animation-direction: alternate-reverse;">DECEMBER 2023</th>
+        <tr>
+            <th style="color: rgb(255, 41, 3); font-style: oblique;">SUNDAY</th>
+            <th style="color: rgb(255, 0, 0); font-style: oblique;">MONDAY</th>
+            <th style="color: rgb(248, 12, 12); font-style: oblique;">TUESDAY</th>
+            <th style="color: rgb(241, 9, 9); font-style: oblique;">WEDNESDAY</th>
+            <th style="color: rgb(233, 9, 9); font-style: oblique;">THURSDAY</th>
+            <th style="color: rgb(223, 17, 17); font-style: oblique;">FRIDAY</th>
+            <th style="color: rgb(226, 15, 15); font-style: oblique;">SATURADAY</th>
+        </tr>
+    </thead>    
+<tbody>
+<tr>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: rgb(22, 22, 18);"></td>
+    <td style="color: rgb(8, 8, 5);font-style: inherit; font-size: xx-large;background-color: rgb(7, 7, 6);"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: rgb(5, 5, 5);"></td>
+    <td style="color: rgb(7, 7, 5);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(7, 7, 4);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(10, 10, 6);font-style: inherit; font-size: xx-large;background-color: gold;">1</td>
+    <td style="color: rgb(3, 3, 1);font-style: inherit; font-size: xx-large;background-color: gold;">2</td>
+</tr> 
+<tr>
+    <td style="color: rgb(26, 24, 19);font-style:inherit;font-size: xx-large;background-color: gold;">3</td>
+    <td style="color: rgb(5, 5, 4);font-style: inherit; font-size: xx-large;background-color: gold;">4</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">5</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color:gold;">6</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">7</td>
+    <td style="color: rgb(22, 22, 18);font-style: inherit; font-size: xx-large;background-color: gold;">8</td>
+    <td style="color: rgb(8, 8, 7);font-style: inherit; font-size: xx-large;background-color: gold;">9</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large;background-color: gold;">10</td>
+    <td style="color: rgb(10, 10, 8);font-style: inherit; font-size: xx-large;background-color: gold;">11</td>
+    <td style="color: rgb(14, 13, 10);font-style: inherit; font-size: xx-large;background-color: gold;">12</td>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">13</td>
+    <td style="color: rgb(32, 31, 26);font-style: inherit; font-size: xx-large;background-color: gold;">14</td>
+    <td style="color: rgb(17, 17, 15);font-style: inherit; font-size: xx-large;background-color: gold;">15</td>
+    <td style="color: rgb(17, 16, 12);font-style: inherit; font-size: xx-large;background-color: gold;">16</td>
+</tr>
+<tr>
+    <td style="color: rgb(15, 15, 12);font-style: inherit; font-size: xx-large;background-color: gold ;">17</td>
+    <td style="color: rgb(29, 28, 24);font-style: inherit; font-size: xx-large;background-color: gold;">18</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large;background-color: gold;">19</td>
+    <td style="color: rgb(12, 12, 10);font-style: inherit; font-size: xx-large;background-color: gold;">20</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">21</td>
+    <td style="color: rgb(19, 18, 16);font-style: inherit; font-size: xx-large;background-color: gold;">22</td>
+    <td style="color: rgb(10, 10, 9);font-style: inherit; font-size: xx-large;background-color: gold;">23</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">24</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: gold;">25</td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: gold;">26</td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color: gold;">27</td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: gold;">28</td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: rgb(31, 30, 28);">29</td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: rgb(19, 17, 17);">30</td>
+</tr>
+<tr>
+    <td style="color: rgb(14, 13, 11);font-style: inherit; font-size: xx-large;background-color: gold;">31</td>
+    <td style="color: rgb(34, 33, 28);font-style: inherit; font-size: xx-large;background-color: black;"></td>
+    <td style="color: rgb(3, 3, 3);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(7, 7, 6);font-style: inherit; font-size: xx-large; background-color:black"></td>
+    <td style="color: rgb(31, 30, 30);font-style: inherit; font-size: xx-large;background-color: black"></td>
+    <td style="color: rgb(14, 13, 12);font-style: inherit; font-size: xx-large; background-color: black"></td>
+    <td style="color: rgb(17, 17, 17);font-style: inherit; font-size: xx-large; background-color: black;"></td>
+
+</tr>
+</table>
